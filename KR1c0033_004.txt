@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩演義
-#+DATE: 2015-09-23 09:36:49
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:05:33.941232
+#+PROPERTY: ID KR1c0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1c0033_WYG_004-1a>¶
 欽定四庫全書¶
 　詩演義卷四¶
@@ -506,4 +508,3 @@
 　甚于衛也¶
 　¶
 　詩演義卷四¶
-

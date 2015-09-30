@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩演義
-#+DATE: 2015-09-23 09:36:49
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:05:34.132072
+#+PROPERTY: ID KR1c0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1c0033_WYG_015-1a>¶
 欽定四庫全書¶
 　詩演義卷十五¶
@@ -254,4 +256,3 @@
 　¶
 　¶
 　詩演義卷十五¶
-
